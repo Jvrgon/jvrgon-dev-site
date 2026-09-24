@@ -9,7 +9,7 @@ title = "Jvrgon"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "jvrgon-logo.png"
+  logo = "base-images/jvrgon-logo.png"
   # secondaryLogo = "GodslayerJvrgon-DIM.png"
   description = "Web Dev, AppSec enthusiast, Riddim DJ, & video games enjoyer."
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,7 +17,7 @@ title = "Jvrgon"
 [params.author]
   name = "Jvrgon"
   email = "jvrgon@jvrgon.dev"
-  image = "cinnamontoastfuck.png"
+  image = "base-images/cinnamontoastfuck.png"
   imageQuality = 100
   headline = "We're all still learning."
   bio = "Web Dev, AppSec enthusiast, Riddim DJ, & video games enjoyer."
